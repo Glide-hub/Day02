@@ -1,2 +1,6 @@
 nihao 
+<<<<<<< HEAD
 123
+=======
+asdasdas
+>>>>>>> xts
